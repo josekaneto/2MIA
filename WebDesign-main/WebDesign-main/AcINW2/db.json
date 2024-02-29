@@ -1,0 +1,25 @@
+{
+    "produtos": [
+    {
+    "id": 1,
+    "descricao": "Óleo",
+    "estoque": 10,
+    "valor": 10,
+    "imagem": "../imgs/produto1.jpg"
+    },
+    {
+    "id": 2,
+    "descricao": "Óleo",
+    "estoque": 10,
+    "valor": 15,
+    "imagem" : "../imgs/produto2.jpg"
+    },
+    {
+    "id": 3,
+    "descricao": "Frasco",
+    "estoque": 10,
+    "valor": 5.25,
+    "imagem" : "../imgs/produto3.jpg"
+    }
+    ]
+   }
